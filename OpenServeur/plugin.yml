@@ -1,0 +1,5 @@
+name: open
+author: niclaw
+api: [4.20.3]
+version: 1.0.0
+main: open\niclaw\Main
